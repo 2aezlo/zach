@@ -1,1 +1,1 @@
-[![codecov](https://codecov.io/gh/2aezlo/zach/branch/master/graph/badge.svg)](https://codecov.io/gh/2aezlo/zach)
+[![codecov](https://codecov.io/gh/2aezlo/zach/branch/master/graph/badge.svg)](https://codecov.io/gh/2aezlo/zach) [![Coverage Status](https://coveralls.io/repos/github/2aezlo/zach/badge.svg)](https://coveralls.io/github/2aezlo/zach)
